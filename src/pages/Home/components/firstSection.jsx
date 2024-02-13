@@ -171,7 +171,7 @@ export const FirstSection = () => {
             </div>
             {
                 arrayShowDub.map((movie, index) => (
-                    <div onClick={() => navigate(`/about/${movie.title}/`)} key={index} className="movie-card ">
+                    <div onClick={() => navigate(`/moviezzz/about/${movie.title}/`)} key={index} className="movie-card ">
                         <div className="movie-header w-[100%] h-fit">
                             <img className='w-[100%] object-cover h-full rounded-t-[10px]' src={movie.poster} alt="" />
                         </div>

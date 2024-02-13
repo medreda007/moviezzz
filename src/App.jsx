@@ -5,9 +5,9 @@ import { AboutPage } from './pages/about/about';
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<HomePage/>} />
-      <Route path="/about" element={<AboutPage/>}/>
-      <Route path="/about/:movie" element={<AboutPage />} />
+      <Route path="/moviezzz" element={<HomePage/>} />
+      <Route path="/moviezzz/about" element={<AboutPage/>}/>
+      <Route path="/moviezzz/about/:movie" element={<AboutPage />} />
           </Routes>
   );
 }
