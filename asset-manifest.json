@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/moviezzz/static/css/main.430e7c6b.css",
+    "main.js": "/moviezzz/static/js/main.fe990548.js",
+    "static/media/oppenheimer-bg.jpg": "/moviezzz/static/media/oppenheimer-bg.a24820b2a0702187d7de.jpg",
+    "static/media/grandturismo.jpg": "/moviezzz/static/media/grandturismo.1ec46d4e9e375852f9d7.jpg",
+    "static/media/killersoftheflowermoon.jpg": "/moviezzz/static/media/killersoftheflowermoon.97181c4972594c2ef5fa.jpg",
+    "static/media/grandturismo-bg.jpg": "/moviezzz/static/media/grandturismo-bg.ce190a8e474e518d18d0.jpg",
+    "static/media/johnwhick4.jpg": "/moviezzz/static/media/johnwhick4.cfc6576e304f3768e001.jpg",
+    "static/media/pastlives.jpg": "/moviezzz/static/media/pastlives.2772234670b98386ac3c.jpg",
+    "static/media/barbie.jpg": "/moviezzz/static/media/barbie.64545b95be1e7f67ecde.jpg",
+    "static/media/johnwhick4-bg.jpg": "/moviezzz/static/media/johnwhick4-bg.2f049170b1dedb3ce96e.jpg",
+    "static/media/oppenheimer.jpg": "/moviezzz/static/media/oppenheimer.e0eac1d23456ebf0e9bf.jpg",
+    "static/media/theholdovers.jpg": "/moviezzz/static/media/theholdovers.fd84423d5feaf6d82241.jpg",
+    "static/media/theholdovers-bg.jpg": "/moviezzz/static/media/theholdovers-bg.a481ace654b59bc29094.jpg",
+    "static/media/barbie-bg.jpg": "/moviezzz/static/media/barbie-bg.8067fe161dc6ef1c5244.jpg",
+    "static/media/killersoftheflowermoon-bg.jpg": "/moviezzz/static/media/killersoftheflowermoon-bg.04fdd624b8a284eb3b82.jpg",
+    "static/media/pastlives-bg.jpg": "/moviezzz/static/media/pastlives-bg.3bfc3997974eb2ea14c5.jpg",
+    "static/media/IMAX-Logo-500x281.webp": "/moviezzz/static/media/IMAX-Logo-500x281.8d2e0331fb7aad1a76a8.webp",
+    "index.html": "/moviezzz/index.html",
+    "main.430e7c6b.css.map": "/moviezzz/static/css/main.430e7c6b.css.map",
+    "main.fe990548.js.map": "/moviezzz/static/js/main.fe990548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430e7c6b.css",
+    "static/js/main.fe990548.js"
+  ]
+}
